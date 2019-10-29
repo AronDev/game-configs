@@ -6,7 +6,11 @@ TODO
 
 Macros
 ---
-TODO
+
+#### <a name="Vanish">Vanish</a>
+> #showtooltip Vanish  
+> /cast Cloak of Shadows  
+> /cast Vanish  
 
 Interface
 ---
