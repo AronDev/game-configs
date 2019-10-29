@@ -7,16 +7,23 @@ TODO
 Macros
 ---
 
-#### <a name="Vanish">Vanish</a>
+#### Vanish
 > #showtooltip Vanish  
 > /cast Cloak of Shadows  
 > /cast Vanish  
 
 ---
 
-#### <a name="TotT">Trick of the Trade</a>
+#### Trick of the Trade
 > #showtooltip   
 > /cast [@mouseover] Tricks of the Trade   
+
+---
+
+#### Envenom
+> #showtooltip Envenom
+> /cast Cold Blood
+> /cast Envenom
 
 Interface
 ---
