@@ -2,7 +2,12 @@
 
 Talents
 ---
-TODO
+
+[<img src="https://i.imgur.com/7iPHeLS.png">](https://i.imgur.com/7iPHeLS.png)
+
+Glyphs
+---
+[<img src="https://i.imgur.com/fAEbUNF.png">](https://i.imgur.com/fAEbUNF.png)
 
 Macros
 ---
