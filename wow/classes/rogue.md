@@ -21,9 +21,9 @@ Macros
 ---
 
 #### Envenom
-  > #showtooltip Envenom  
-  > /cast Cold Blood  
-  > /cast Envenom  
+> #showtooltip Envenom  
+> /cast Cold Blood  
+> /cast Envenom  
 
 Interface
 ---
