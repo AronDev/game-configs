@@ -14,7 +14,9 @@ Macros
 
 ---
 
-etc
+#### <a name="TotT">Trick of the Trade</a>
+> #showtooltip   
+> /cast [@mouseover] Tricks of the Trade   
 
 Interface
 ---
