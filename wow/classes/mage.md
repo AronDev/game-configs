@@ -3,7 +3,7 @@
 Talents
 ---
 
-[<img src="https://i.imgur.com/7iPHeLS.png">](https://i.imgur.com/7iPHeLS.png)
+[<img src="https://i.imgur.com/gbzFqba.png">](https://i.imgur.com/gbzFqba.png)
 
 Glyphs
 ---
