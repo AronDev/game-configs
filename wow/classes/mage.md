@@ -20,6 +20,15 @@ Macros
 
 * This macro will cancel your current spell cast and make you blink away.
 
+---
+
+#### Counterspell on focus
+> #showtooltip  
+> /stopcasting  
+> /cast [target=focus]Counterspell  
+
+* This macro will cast Counterspell on your focus target.
+
 Interface
 ---
 
