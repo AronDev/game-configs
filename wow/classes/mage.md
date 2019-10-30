@@ -25,7 +25,7 @@ Macros
 #### Counterspell on focus
 > #showtooltip  
 > /stopcasting  
-> /cast [target=focus]Counterspell  
+> /cast `[target=focus]`Counterspell  
 
 * This macro will cast Counterspell on your focus target.
 
