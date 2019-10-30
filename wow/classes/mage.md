@@ -32,4 +32,5 @@ Macros
 Interface
 ---
 
-[<img src="https://i.imgur.com/0i8jf8Q.png">](https://i.imgur.com/0i8jf8Q.png)
+[<img src="https://i.imgur.com/mqTN4OK.png">](https://i.imgur.com/mqTN4OK.png)
+
